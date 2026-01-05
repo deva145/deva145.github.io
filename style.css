@@ -106,7 +106,7 @@ section {
 .hero-image img {
   width: 300px;
   border-radius: 20px;
-  box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+  box-shadow: 0 20px 60px rgba(102,101,101,0.6);
   filter: contrast(1.05);
   animation: fadeZoom 1s ease forwards;
 }
@@ -310,3 +310,4 @@ section {
     font-size: 36px;
   }
 }
+
