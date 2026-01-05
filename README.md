@@ -2,7 +2,7 @@
 
 This is my personal portfolio website showcasing my projects, skills, and experience as a Java Backend Developer.
 
-🌐 Live Website: https://deva145.github.io/deva-portfolio/
+🌐 Live Website: https://deva145.github.io
 
 ## Tech Stack
 - HTML
@@ -16,3 +16,4 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## Hosting
 Hosted using GitHub Pages.
+
