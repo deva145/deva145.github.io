@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java compiled
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
